@@ -1,4 +1,4 @@
-# Instruction of Whakaari(used for JGR-solid_earth amnuscript feature extraction) and plots generation
+# Instruction of Whakaari(used for JGR-solid_earth manuscript feature extraction) and plots generation
 This Whakaari package initially implements a time series feature engineering and classification workflow that issues eruption alerts based on real-time tremor data. Here, we used the Whakaari package to do the feature extractions for all wells in the Rotokawa and Husmuli fields, (1)-(3) is one example on how to do the feature extraction for the well injection data. environment.yml contains all python packages used in this study.
 
 ## Feature extraction process
