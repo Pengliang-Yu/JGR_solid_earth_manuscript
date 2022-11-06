@@ -1,9 +1,9 @@
 # Whakaari
 This Whakaari package implements a time series feature engineering and classification workflow that issues eruption alerts based on real-time tremor data. This is the real-time version for running on a VM with html forecaster output and email alerting.
 
-the __init__.py file in the folder of whakaari is slightly modified to extract the features of Rotokawa and husmuli wells based on the __init__.py file in the folder of https://github.com/ddempsey/whakaari/tree/master/whakaari, main changes on the time intervals to make it match with the injection well data.
+(1)the __init__.py file in the folder of whakaari is slightly modified to extract the features of Rotokawa and husmuli wells based on the __init__.py file in the folder of https://github.com/ddempsey/whakaari/tree/master/whakaari, main changes on the time intervals to make it match with the injection well data.
 
-the tremor_data.dat file in the folder of data is the processed normalized humuli wells injection data, which could be directly used for feature extraction, but need to change the file name to 'tremor_data.dat' 
+(2)the tremor_data_husmuli_hour_unit_norm2015_CO2_col_name.dat file in the folder of data is the processed normalized humuli wells injection data, which could be directly used for feature extraction, but need to change the file name to 'tremor_data.dat' 
 
 ## Installation
 
