@@ -44,7 +44,7 @@ This Whakaari package initially implements a time series feature engineering and
 (15) sig_features_RK24_pvalue_undersample1_QvspvsQp_newdata_intqdt_norm1_JA_dqdt_fig16.py and sig_features_husmuli_pvalue_undersample_norm_QvsdiffQvsintQ_HN12_fig16.py is used to plot fig16
 
 
-## Installation
+## Installation of Whakaari package
 
 Ensure you have Anaconda Python 3.7 installed. Then
 
