@@ -10,7 +10,7 @@ Ensure you have Anaconda Python 3.7 installed. Then
 1. Clone the repo
 
 ```bash
-git clone https://github.com/ddempsey/whakaari
+git clone https://github.com/Pengliang-Yu/JGR_solid_earth_manuscript
 ```
 
 2. CD into the repo and create a conda environment
