@@ -1,5 +1,5 @@
 # instruction of Whakaari(used for JGR-solid_earth amnuscript feature extraction) and plots generation
-This Whakaari package implements a time series feature engineering and classification workflow that issues eruption alerts based on real-time tremor data. This is the real-time version for running on a VM with html forecaster output and email alerting.
+This Whakaari package initially implements a time series feature engineering and classification workflow that issues eruption alerts based on real-time tremor data. Here, we used the Whakaari package to do the feature extractions for all wells in the Rotokawa and Husmuli fields, (1)-(3) is one example on how to do the feature extraction for the well injection data.
 
 (1)the __init__.py file in the folder of whakaari is slightly modified to extract the features of Rotokawa and husmuli wells based on the __init__.py file in the folder of https://github.com/ddempsey/whakaari/tree/master/whakaari, main changes on the time intervals to make it match with the injection well data.
 
