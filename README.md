@@ -66,7 +66,7 @@ conda activate whakaari_env
 
 The installation has been tested on Windows, Mac and Unix operating systems. Total install with Anaconda Python should be less than 10 minutes.
 
-#Acknowledgements
+# Acknowledgements
 
 We thank Manuel Rivera at Mercury for discussions that improved our understanding of the Rotokawa geothermal field. P Yu acknowledges Dr.Alberto Ardid for assistance producing Figs. 1 & 3. D. Dempsey acknowledges funding from MBIE Endeavour “Empowering Geothermal” research grant. The authors wish to acknowledge the Centre for eResearch at the University of Auckland for their help in facilitating this research on Research Virtual Machine. http://www.eresearch.auckland.ac.nz.  A. P. Rinaldi and V. A. Ritz are funded through the COSEISMIQ and DEEP projects. The DEEP project (http://deepgeothermal.org) is funded through the ERANET Cofund GEOTHERMICA (Project No. 200320-4001) from the European Commission. The DEEP project benefits from an exploration subsidy of the Swiss federal office of energy for the EGS geothermal project in Haute-Sorne, canton of Jura (contract number MF-021-GEO-ERK), which is gratefully acknowledged. The COSEISMIQ project (http://www.coseismiq.ethz.ch) is funded through the ERANET Cofund GEOTHERMICA (Project No. 731117) from the European Commission, and Geological Survey Ireland (GSI; Project No. 170167-44011).
 
