@@ -4,7 +4,8 @@ This Whakaari package implements a time series feature engineering and classific
 (1)the __init__.py file in the folder of whakaari is slightly modified to extract the features of Rotokawa and husmuli wells based on the __init__.py file in the folder of https://github.com/ddempsey/whakaari/tree/master/whakaari, main changes on the time intervals to make it match with the injection well data.
 
 (2)the tremor_data_husmuli_hour_unit_norm2015_CO2_col_name.dat file in the folder of data is the processed normalized humuli wells injection data, which could be directly used for feature extraction, but need to change the file name to 'tremor_data.dat' first.
-(3) FM_husmuli_norm_HN12_2015.py in the folder of feature extraction script is for the feature extraction of HN12 well 
+
+(3) FM_husmuli_norm_HN12_2015.py in the folder of feature_extraction_script is for the feature extraction of HN12 well. Similarly, we could extrac the features for all other wells of Rotokawa and Husmuli.
 
 ## Installation
 
