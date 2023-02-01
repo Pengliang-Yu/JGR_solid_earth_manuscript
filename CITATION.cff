@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: YU
+    given-names: PENGLIANG
+    orcid: https://orcid.org/0000-0001-8774-8991
+title: Pengliang-Yu/JGR_solid_earth_manuscript: ML_feature_engineering_v1.0.0
+version: ML_feature_engineering_v1.0.0
+date-released: 2022-11-06
